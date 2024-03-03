@@ -5,9 +5,16 @@ This is the official implementation of our bachelor's degree final year project 
 A2SR is a 3D printed autonomous humanoid robot’s surveillance system with the abilities of interaction with incoming people, their identification, monitoring, and enforcing the security of an environment where the only authentic person can enter along with COVID-19 precaution services by sanitization, face mask and body temperature detection. In A2SR, face recognition is implemented using the FaceNet pre-trained deep learning model and transfer learning applied on MobileNetV2 for face mask detection. To demonstrate and ensure the practicality and performance of A2SR, deployed it on the main entrance of the university to identify and welcome the coming persons along maintaining COVID-19 SOPs with friendly interaction. 
 
 ## Project Concept Art ([Video](https://youtu.be/tX6BxuxguuA?si=ivHfyN-88YH6L7Ni))
-[![A2SR - Advanced Autonomous Security Robot](https://i.ytimg.com/vi_webp/tX6BxuxguuA/maxresdefault.webp)](https://youtu.be/tX6BxuxguuA?si=ivHfyN-88YH6L7Ni)
+
+
+https://github.com/adnanit035/A2SR/assets/61573321/674197a4-5407-4e2f-aa09-68e3fadebcf0
+
 
 ## Project Demo ([Video](https://youtu.be/sIa1a3OgeY0))
+
+
+https://github.com/adnanit035/A2SR/assets/61573321/04b95a24-2b4b-4167-975e-ef7e8e66e8e3
+
 
 ## Methodology
 The development methodology of the A2SR project is divided into two main parts: Software System Design and Hardware System Design.
