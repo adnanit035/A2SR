@@ -66,8 +66,8 @@ The hardware system design pipeline consists of several stages:
 3. **Electronics:** **Arduino Mega 2560** microcontroller to control the servo motors based on signals received from Python code; **Nvidia Jetson TX2 board** as a computing unit for all deep learning models, backend and run software system; and various sensors and actuators for the robot's electronics system such as servo motors, **ultrasonic sensors**, **infrared sensors**, and a hands sanitization module.
    <br>
    <p float="center">
-      <img src="repo_resources/3D-parts-1.jpg" width="400"/> 
-      <img src="repo_resources/3D-parts-2.jpg" width="400"/>
+      <img src="repo_resources/3D-parts-1.jpg" width="300"/> 
+      <img src="repo_resources/3D-parts-2.jpg" width="300"/>
    </p>
    <p align="center">Electronics Components</p>
    <br>
