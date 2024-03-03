@@ -1,0 +1,10 @@
+.idea/
+face_recognition/dataset_preparation/New_Custom_Dataset/test/
+face_recognition/dataset_preparation/New_Custom_Dataset/train/
+face_recognition/models/classifier/
+face_recognition/models/facenet_models/20180402-114759/
+liveness_detection/models/
+mask_detection/models/face_detector/
+mask_detection/models/mask_detector/
+robot_voice_engine/recorded_messages/
+face_recognition/models/facenet_models/facenet_keras.h5

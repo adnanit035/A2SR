@@ -1,1 +1,2 @@
 # A2SR
+This is the official implementation of our bachelor's degree final year project and thesis named "A2SR - Advanced Autonomous Security Robot". This project was developed at the Khwaja Fareed University of Engineering and Information Technology (KFUEIT), in the context of the Bachelor of Science in Information Technology (BSIT).
